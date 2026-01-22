@@ -59,7 +59,7 @@ Movie Recommendation System/
 
 🧪 How to Run the Project
 	1.	Clone the repository:\git clone 
-    https://github.com/vansh-s19/movie-recommendation-system.git
+    [https://github.com/vansh-s19/movie-recommendation-system.git](https://github.com/vansh-s19/movie-recommendation-system-ml)
     	
     2.	Navigate to the project directory:
     cd movie-recommendation-system
